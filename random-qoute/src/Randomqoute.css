@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(2, 2, 46);
+}
+
+.boxcontainer{
+    width: 45%;
+    height: 30%;
+    background-color: rgb(213, 192, 233);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(61, 60, 60), -5px -5px 10px rgb(61, 60, 60);
+    margin-top: 2%;
+    margin-left: 25%;
+    padding: 1%;
+}
+.h1{
+    color: rgba(75, 75, 73, 0.918);
+    margin-left: 17%;
+}
+.btngroups{
+    display: flex;
+    flex-direction: row;
+}
+.btngrouptwo{
+    margin-left: -25%;
+    margin-top: 1%;
+}
+.btn{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 140px;
+    margin-left: 33%;
+    margin-top: 5%;
+    border: none;
+    font-size: 17px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn2{
+    background-color: rgba(26, 145, 26, 0.897);
+}
+#btn3{
+    background-color: rgb(78, 78, 236);
+}
+#btn4{
+    background-color: #6f42c1;
+}
+#btn5{
+    background-color: rgb(216, 41, 41);
+}
+.qoutediv{
+    width: 550px;
+    height: 100px;
+    box-shadow: 5px 5px 10px rgb(179, 177, 177), -5px -5px 10px rgb(179, 177, 177);
+    background-color: rgb(235, 210, 245);
+    margin-top: 10%;
+    margin-left: 3.5%;
+    border-radius: 5px;
+}
+.qoute{
+    padding: 5%;
+    color: rgb(75, 74, 74);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+.h2{
+    margin-left: 30%;
+    color: #524074;
+}
+.saved-quotes{
+    color: rgb(53, 53, 53);
+    font-size: 17px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.noqoutetext{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+    margin-left: 5%;
+}
